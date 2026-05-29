@@ -3,7 +3,8 @@
 <p align="center">
   <strong>Unified observability platform.</strong><br/>
   Errors · logs · distributed tracing · infrastructure metrics · uptime · alerting.<br/>
-  One sign-in, one tenant model, one correlated dataset across every signal.
+  One sign-in, one tenant model, one correlated dataset across every signal.<br/>
+  <sub>Region-pinned production: <strong>KSA</strong> (MENA customers) · <strong>Germany</strong> (EEA / UK customers).</sub>
 </p>
 
 <p align="center">
