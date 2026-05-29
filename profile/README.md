@@ -68,8 +68,11 @@ Security disclosures are acknowledged within one business day. See
 ---
 
 <p align="center">
-  <a href="https://www.saudimade.sa">
-    <img src="./saudi-made.png" alt="Saudi Made" width="220" />
+  <a href="https://saudi.tech">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./saudi-tech-white.svg" />
+      <img src="./saudi-tech-green.svg" alt="Saudi Tech — certified" width="240" />
+    </picture>
   </a>
 </p>
 
