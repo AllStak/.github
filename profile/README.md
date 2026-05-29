@@ -68,5 +68,11 @@ Security disclosures are acknowledged within one business day. See
 ---
 
 <p align="center">
+  <a href="https://www.saudimade.sa">
+    <img src="./saudi-made.png" alt="Saudi Made" width="220" />
+  </a>
+</p>
+
+<p align="center">
   <sub>© AllStak · Riyadh, Kingdom of Saudi Arabia</sub>
 </p>
